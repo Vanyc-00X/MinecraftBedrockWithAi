@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Neiro AI Mobs BDS",
+    "description": "Talk to mobs through the local Neiro AI bridge on Bedrock Dedicated Server.",
+    "uuid": "0155a285-8444-4709-93b7-fcf624598432",
+    "version": [0, 5, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "d1b62f48-394a-4b2f-9342-c95feb06683f",
+      "version": [0, 5, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    },
+    {
+      "module_name": "@minecraft/server-net",
+      "version": "beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "beta"
+    }
+  ],
+  "capabilities": [
+    "script_eval"
+  ]
+}

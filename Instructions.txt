@@ -1,0 +1,62 @@
+Neiro AI Mobs — Instructions
+Pack version: 0.5.0
+
+New: Upon first entering a fresh map, a friendly village
+and a monster city (houses, mobs, roles) are automatically created.
+
+Installation
+------------
+BDS + Ollama + start-bridge.cmd + behavior_pack
+world_behavior_packs.json version: [0, 5, 0]
+Beta APIs / GameTest experiment required for the world.
+
+Startup
+-------
+1) Ollama
+2) start-bridge.cmd
+3) bedrock_server.exe
+4) Connect to IP:19132
+
+Upon first entry, a chat message regarding the auto-generated villages will appear.
+Friendly village: approx. +36, +28 from spawn; monster city: -42, +34.
+
+Commands
+--------
+!neiro / !neiro status / !neiro quest
+!neiro village good|evil — manually add a settlement
+!talk ...
+
+
+
+
+==========================
+
+
+Neiro AI Mobs — инструкция
+
+Версия pack: 0.5.0
+
+Новое: при первом входе на свежую карту автоматически создаются
+добрая деревня и город монстров (дома, мобы, роли).
+
+Установка
+---------
+BDS + Ollama + start-bridge.cmd + behavior_pack
+world_behavior_packs.json version: [0, 5, 0]
+Beta APIs / GameTest experiment в мире обязателен.
+
+Запуск
+------
+1) Ollama
+2) start-bridge.cmd
+3) bedrock_server.exe
+4) Зайти на IP:19132
+
+При первом заходе в чате будет сообщение про авто-деревни.
+Добрая деревня примерно +36,+28 от спавна, город монстров -42,+34.
+
+Команды
+-------
+!neiro / !neiro status / !neiro quest
+!neiro village good|evil  — доп. поселение вручную
+!talk ...

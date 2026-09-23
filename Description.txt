@@ -1,0 +1,21 @@
+Neiro AI Mobs — Product Description
+
+Version 0.5.0
+
+Living settlements: roles (elder, guards, builders, friends of humans / gang leader, raiders),
+golems, house and wall repairs, night raids (village ↔ monster city), gang leader commands,
+quests from the witch/elder, daily schedules, reactions to hits/fire without chat messages.
+
+See INSTRUCTIONS.txt
+
+
+=================================
+Neiro AI Mobs — описание продукта
+
+Версия 0.5.0
+
+Живые поселения: роли (староста, стражи, строители, друзья людей / лидер банды, рейдеры),
+големы, ремонт домов и стен, ночные рейды деревня↔город монстров, приказы лидера банды,
+квесты от ведьмы/старосты, распорядок дня, реакции на удар/огонь без чата.
+
+См. ИНСТРУКЦИЯ.txt
